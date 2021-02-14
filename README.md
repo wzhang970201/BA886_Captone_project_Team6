@@ -5,6 +5,9 @@
 *** Thanks again! Now go create something AMAZING! :D
 -->
 
+# BA886 Capstone project Team 6
+Team member: Jingjing Ling, Yuanming Zhang, Cheng Chen, Weilin Zhang
+
 
 <!-- TABLE OF CONTENTS -->
 <details open="open">
