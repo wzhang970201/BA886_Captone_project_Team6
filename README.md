@@ -6,7 +6,12 @@
 -->
 
 # BA886 Capstone project Team 6
-Team member: Jingjing Ling, Yuanming Zhang, Cheng Chen, Weilin Zhang
+Team member: 
+- Jingjing Ling           (jjling@bu.edu)
+- Yuanming Zhang          (mm121@bu.edu)
+- Cheng Chen              (chengcc@bu.edu)
+- Weilin Zhang            (wzhang97@bu.edu)
+
 
 
 <!-- TABLE OF CONTENTS -->
