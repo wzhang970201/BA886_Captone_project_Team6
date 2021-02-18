@@ -90,10 +90,10 @@ See the [storyline](https://github.com/storyline_example) that within our git-hu
 <!-- CONTACT -->
 ## Contact
 
-Jingjing Ling   - jjling@bu.edu
-Yuanming Zhang  - mm121@bu.edu
-Cheng Chen      - chengcc@bu.edu
-Weilin Zhang    - wzhang97@bu.edu
+- Jingjing Ling   - jjling@bu.edu
+- Yuanming Zhang  - mm121@bu.edu
+- Cheng Chen      - chengcc@bu.edu
+- Weilin Zhang    - wzhang97@bu.edu
 
 Project Link: [https://github.com/wzhang970201/BA886_Captone_project_Team6](https://github.com/wzhang970201/BA886_Captone_project_Team6)
 
